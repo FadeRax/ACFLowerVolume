@@ -1,3 +1,6 @@
+rem     Made by FadeRax64!
+rem     October 10, 2020
+
 @echo off
 setlocal enabledelayedexpansion
 
@@ -12,5 +15,5 @@ for /r "..\sound" %%f in ("*.wav") do (
 
 cls
 color A
-echo "All Done!"
+echo All done
 pause
